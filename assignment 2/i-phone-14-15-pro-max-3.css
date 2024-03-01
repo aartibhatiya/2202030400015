@@ -1,0 +1,262 @@
+.myntra-logo-21 {
+  position: absolute;
+  top: 21px;
+  left: 19px;
+  width: 49px;
+  height: 51px;
+  object-fit: cover;
+}
+.become {
+  margin: 0;
+}
+.insider {
+  margin: 0;
+  color: #977419;
+}
+.become-insider {
+  position: absolute;
+  top: 34px;
+  left: 68px;
+  font-weight: 500;
+}
+.alarm-1-icon1,
+.shopping-bag-1 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+}
+.shopping-bag-1 {
+  top: 206px;
+  left: 38px;
+  background: linear-gradient(180deg, #000, rgba(255, 255, 255, 0));
+}
+.alarm-1-icon1 {
+  top: 197px;
+  left: 147px;
+  object-fit: cover;
+}
+.like-1-icon1,
+.notification-icon1,
+.shopping-bag-icon1 {
+  position: absolute;
+  top: 21px;
+  left: 215px;
+  width: 65px;
+  height: 32px;
+  object-fit: cover;
+}
+.like-1-icon1,
+.shopping-bag-icon1 {
+  left: 280px;
+}
+.like-1-icon1 {
+  left: 362px;
+  width: 32px;
+}
+.iphone-14-15-pro-max-3-child {
+  position: absolute;
+  top: 108px;
+  left: 32px;
+  border-radius: 40px;
+  background-color: var(--color-gainsboro-100);
+  width: 362px;
+  height: 48px;
+}
+.search-for-brands {
+  position: absolute;
+  top: 123px;
+  left: 68px;
+  font-weight: 300;
+}
+.image-22-icon,
+.image-23-icon,
+.image-24-icon {
+  position: absolute;
+  height: 200px;
+  object-fit: cover;
+}
+.image-22-icon {
+  top: 206px;
+  left: 23px;
+  width: 192px;
+}
+.image-23-icon,
+.image-24-icon {
+  top: 519px;
+  width: 200px;
+}
+.image-23-icon {
+  left: 15px;
+  cursor: pointer;
+}
+.image-24-icon {
+  left: 230px;
+}
+.image-15-icon1,
+.image-16-icon1,
+.image-17-icon1 {
+  position: absolute;
+  top: 117px;
+  left: 38px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-16-icon1,
+.image-17-icon1 {
+  left: 313px;
+}
+.image-17-icon1 {
+  left: 353px;
+  width: 27.4px;
+}
+.nike,
+.nike1,
+.nike2,
+.nike3 {
+  position: absolute;
+  top: 421px;
+  left: 38px;
+  font-weight: 600;
+}
+.nike1,
+.nike2,
+.nike3 {
+  top: 430px;
+  left: 276px;
+}
+.nike2,
+.nike3 {
+  top: 762px;
+  left: 23px;
+}
+.nike3 {
+  top: 766px;
+  left: 282px;
+}
+.men-nike-free {
+  position: absolute;
+  top: 451px;
+  left: 276px;
+}
+.rupee-1-icon,
+.rupee-2-icon,
+.rupee-3-icon,
+.rupee-4-icon {
+  position: absolute;
+  top: 466px;
+  left: 23px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.rupee-2-icon,
+.rupee-3-icon,
+.rupee-4-icon {
+  top: 470px;
+  left: 261px;
+}
+.rupee-3-icon,
+.rupee-4-icon {
+  top: 819px;
+  left: 20px;
+}
+.rupee-4-icon {
+  top: 825px;
+  left: 273px;
+}
+.nike-sport-sendal {
+  position: absolute;
+  top: 441px;
+  left: 38px;
+}
+.nike-zoom-string-container {
+  position: absolute;
+  top: 785px;
+  left: 276px;
+}
+.div,
+.nike-white-casual {
+  position: absolute;
+  top: 788px;
+  left: 15px;
+}
+.div {
+  top: 477px;
+  left: 63px;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 481px;
+  left: 301px;
+}
+.div2,
+.div3 {
+  top: 826px;
+  left: 64px;
+}
+.div3 {
+  top: 834px;
+  left: 313px;
+}
+.iphone-14-15-pro-max-3-item {
+  position: absolute;
+  top: 871px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 430px;
+  height: 61px;
+}
+.iphone-14-15-pro-max-3-inner,
+.line-icon {
+  position: absolute;
+  top: 888px;
+  left: 124px;
+  width: 1px;
+  height: 28px;
+  object-fit: contain;
+}
+.line-icon {
+  top: 886px;
+  left: 280px;
+}
+.filter,
+.gender,
+.sort {
+  position: absolute;
+  top: 894px;
+  left: 15px;
+  font-weight: 500;
+}
+.filter,
+.sort {
+  top: 890px;
+  left: 168px;
+}
+.filter {
+  top: 888px;
+  left: 324px;
+}
+.image-25-icon {
+  position: absolute;
+  top: 219px;
+  left: 230px;
+  width: 192px;
+  height: 192px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

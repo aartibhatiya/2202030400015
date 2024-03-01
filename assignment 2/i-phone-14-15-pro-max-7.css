@@ -1,0 +1,227 @@
+.iphone-14-15-pro-max-7-child {
+  position: absolute;
+  top: 63px;
+  left: 0;
+  background-color: #224ebf;
+  width: 430px;
+  height: 77px;
+}
+.iphone-14-15-pro-max-7-child1,
+.iphone-14-15-pro-max-7-child2,
+.iphone-14-15-pro-max-7-inner,
+.iphone-14-15-pro-max-7-item {
+  position: absolute;
+  top: 170px;
+  left: 9px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 119px;
+  height: 38px;
+}
+.iphone-14-15-pro-max-7-child1,
+.iphone-14-15-pro-max-7-child2,
+.iphone-14-15-pro-max-7-inner {
+  left: 154px;
+  border-radius: var(--br-xl);
+  width: 76px;
+  height: 31px;
+}
+.iphone-14-15-pro-max-7-child1,
+.iphone-14-15-pro-max-7-child2 {
+  left: 245px;
+}
+.iphone-14-15-pro-max-7-child2 {
+  left: 347px;
+}
+.items,
+.wishlist2 {
+  position: absolute;
+  left: 40px;
+  font-size: var(--font-size-base);
+}
+.wishlist2 {
+  top: 14px;
+  font-weight: 500;
+}
+.items {
+  top: 34px;
+  display: inline-block;
+  width: 63px;
+  height: 59px;
+}
+.all,
+.collection,
+.ends-tonight,
+.tops,
+.watch {
+  position: absolute;
+  top: 180px;
+  left: 27px;
+  font-size: var(--font-size-base);
+}
+.all,
+.ends-tonight,
+.tops,
+.watch {
+  top: 176px;
+  left: 182px;
+}
+.ends-tonight,
+.tops,
+.watch {
+  top: 174px;
+  left: 259px;
+}
+.ends-tonight,
+.tops {
+  left: 368px;
+}
+.ends-tonight {
+  top: 70px;
+  left: 94px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.final-call-for {
+  margin: 0;
+}
+.final-call-for-container {
+  position: absolute;
+  top: 109px;
+  left: 117px;
+  color: var(--color-white);
+}
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  width: 264.3px;
+  height: 266px;
+  object-fit: cover;
+}
+.image-31-icon {
+  left: 227px;
+  width: 199.5px;
+}
+.image-32-icon,
+.image-33-icon,
+.rupee-1-icon2 {
+  position: absolute;
+  top: 581px;
+  left: 9px;
+  width: 200px;
+  height: 266.7px;
+  object-fit: cover;
+}
+.image-33-icon,
+.rupee-1-icon2 {
+  left: 236px;
+}
+.rupee-1-icon2 {
+  top: 525px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+}
+.pebble {
+  position: absolute;
+  top: 501px;
+  left: 40px;
+}
+.rupee-2-icon1,
+.rupee-3-icon1,
+.rupee-4-icon1 {
+  position: absolute;
+  top: 539px;
+  left: 264px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.rupee-3-icon1,
+.rupee-4-icon1 {
+  top: 881px;
+  left: 20px;
+}
+.rupee-4-icon1 {
+  top: 869px;
+  left: 293px;
+}
+.dream-beauty-fashion,
+.ketch {
+  position: absolute;
+  top: 515px;
+  left: 221px;
+}
+.ketch {
+  top: 850px;
+  left: 40px;
+}
+.div11,
+.div12,
+.div13,
+.div14 {
+  position: absolute;
+  top: 528px;
+  left: 53px;
+  font-weight: 500;
+}
+.div12,
+.div13,
+.div14 {
+  top: 548px;
+  left: 304px;
+}
+.div13,
+.div14 {
+  top: 889px;
+  left: 65px;
+}
+.div14 {
+  top: 877px;
+  left: 332px;
+}
+.sassfaras {
+  position: absolute;
+  top: 850px;
+  left: 264px;
+}
+.shopping-bag-icon4 {
+  position: absolute;
+  top: 13px;
+  left: 327px;
+  width: 65px;
+  height: 32px;
+  object-fit: cover;
+}
+.arrow-icon {
+  position: absolute;
+  top: 34px;
+  right: 396px;
+  width: 25px;
+  height: 1.5px;
+  object-fit: contain;
+}
+.user-male-icon3 {
+  position: absolute;
+  top: 14px;
+  left: 273px;
+  width: 65px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,144 @@
+.iphone-14-15-pro-max-8-child {
+  position: absolute;
+  top: 42px;
+  right: 385px;
+  width: 25px;
+  height: 1.5px;
+  object-fit: contain;
+}
+.help-center1 {
+  position: absolute;
+  top: 93px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+}
+.help-center2 {
+  position: absolute;
+  top: 34px;
+  left: 48px;
+  font-weight: 600;
+}
+.please-get {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.happy-to-help {
+  margin: 0;
+}
+.need-help-with,
+.please-get-in-container {
+  position: absolute;
+  top: 138px;
+  left: 20px;
+}
+.need-help-with {
+  top: 244px;
+}
+.iphone-14-15-pro-max-8-item {
+  position: absolute;
+  top: 297px;
+  left: 256px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-8-inner {
+  position: absolute;
+  top: 482px;
+  left: 1px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 430px;
+  height: 78px;
+}
+.iphone-14-15-pro-max-8-child1 {
+  position: absolute;
+  top: 632px;
+  left: 0;
+  width: 430px;
+  height: 78px;
+}
+.iphone-14-15-pro-max-8-child2,
+.iphone-14-15-pro-max-8-child3 {
+  position: absolute;
+  top: 700px;
+  left: 0;
+  width: 430px;
+  height: 78px;
+}
+.iphone-14-15-pro-max-8-child3 {
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 75px;
+}
+.offersdiscountscoupons,
+.paymentrefund {
+  position: absolute;
+  top: 585px;
+  left: 24px;
+}
+.paymentrefund {
+  top: 506px;
+  left: 32px;
+}
+.manage-your-account,
+.other {
+  position: absolute;
+  top: 652px;
+  left: 24px;
+}
+.other {
+  top: 730px;
+  left: 32px;
+}
+.iphone-14-15-pro-max-8-child4 {
+  position: absolute;
+  top: 500px;
+  left: 369px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-8-child5,
+.iphone-14-15-pro-max-8-child6,
+.iphone-14-15-pro-max-8-child7 {
+  position: absolute;
+  top: 581px;
+  left: 369px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-8-child6,
+.iphone-14-15-pro-max-8-child7 {
+  top: 656px;
+}
+.iphone-14-15-pro-max-8-child7 {
+  top: 719px;
+}
+.recent-queries {
+  position: absolute;
+  top: 807px;
+  left: 24px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.there-are-no-container {
+  position: absolute;
+  top: 840px;
+  left: 24px;
+}
+.iphone-14-15-pro-max-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

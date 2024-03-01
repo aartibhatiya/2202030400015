@@ -1,0 +1,251 @@
+.myntra-logo-22 {
+  position: absolute;
+  top: 13px;
+  left: 38px;
+  width: 49px;
+  height: 51px;
+  object-fit: cover;
+}
+.alarm-1-icon2,
+.shopping-bag-11 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+}
+.shopping-bag-11 {
+  top: 206px;
+  left: 38px;
+  background: linear-gradient(180deg, #000, rgba(255, 255, 255, 0));
+}
+.alarm-1-icon2 {
+  top: 197px;
+  left: 147px;
+  object-fit: cover;
+}
+.like-1-icon2,
+.notification-icon2,
+.shopping-bag-icon2 {
+  position: absolute;
+  top: 21px;
+  left: 215px;
+  width: 65px;
+  height: 32px;
+  object-fit: cover;
+}
+.like-1-icon2,
+.shopping-bag-icon2 {
+  left: 280px;
+}
+.like-1-icon2 {
+  left: 362px;
+  width: 32px;
+  cursor: pointer;
+}
+.nike4 {
+  position: absolute;
+  top: 24px;
+  left: 98px;
+  font-size: var(--font-size-5xl);
+}
+.iphone-14-15-pro-max-5-child {
+  position: absolute;
+  top: 36px;
+  right: 392px;
+  width: 25px;
+  height: 1.5px;
+  object-fit: contain;
+}
+.image-23-icon1 {
+  position: absolute;
+  top: 86px;
+  left: -28px;
+  width: 486px;
+  height: 561px;
+  object-fit: cover;
+}
+.div4,
+.mrp,
+.nike5,
+.zoom-string-racing {
+  position: absolute;
+  top: 648px;
+  font-size: var(--font-size-5xl);
+}
+.zoom-string-racing {
+  left: 109px;
+  display: inline-block;
+  width: 377px;
+  height: 8px;
+}
+.div4,
+.mrp,
+.nike5 {
+  left: 31px;
+}
+.div4,
+.mrp {
+  top: 695px;
+  left: 35px;
+}
+.div4 {
+  left: 147px;
+}
+.rupee-1-icon1 {
+  position: absolute;
+  top: 689px;
+  left: 98px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-5-inner,
+.iphone-14-15-pro-max-5-item {
+  position: absolute;
+  top: 854px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 200px;
+  height: 44px;
+}
+.iphone-14-15-pro-max-5-item {
+  left: 7px;
+  background-color: var(--color-white);
+}
+.iphone-14-15-pro-max-5-inner {
+  left: 215px;
+  background-color: #cc2f5e;
+}
+.shopping-bag-icon3 {
+  position: absolute;
+  top: 860px;
+  left: 215px;
+  width: 65px;
+  height: 32px;
+  object-fit: cover;
+}
+.add-to-bag {
+  left: 280px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.add-to-bag,
+.like-2-icon,
+.wishlist {
+  position: absolute;
+  top: 860px;
+}
+.like-2-icon {
+  left: 27px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.wishlist {
+  left: 74px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.iphone-14-15-pro-max-5-child1 {
+  position: absolute;
+  top: 575px;
+  left: 36px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 141px;
+  height: 48px;
+}
+.view-similar {
+  position: absolute;
+  top: 587px;
+  left: 50px;
+}
+.select-sizeuk-size {
+  position: absolute;
+  top: 738px;
+  left: 31px;
+}
+.iphone-14-15-pro-max-5-child2 {
+  position: absolute;
+  top: 780px;
+  left: 20px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 41px;
+}
+.iphone-14-15-pro-max-5-child3,
+.iphone-14-15-pro-max-5-child4,
+.iphone-14-15-pro-max-5-child5,
+.iphone-14-15-pro-max-5-child6,
+.iphone-14-15-pro-max-5-child7 {
+  position: absolute;
+  top: 780px;
+  left: 293px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 41px;
+}
+.iphone-14-15-pro-max-5-child4,
+.iphone-14-15-pro-max-5-child5,
+.iphone-14-15-pro-max-5-child6,
+.iphone-14-15-pro-max-5-child7 {
+  left: 161px;
+}
+.iphone-14-15-pro-max-5-child5,
+.iphone-14-15-pro-max-5-child6,
+.iphone-14-15-pro-max-5-child7 {
+  left: 88px;
+}
+.iphone-14-15-pro-max-5-child6,
+.iphone-14-15-pro-max-5-child7 {
+  left: 227px;
+}
+.iphone-14-15-pro-max-5-child7 {
+  left: 359px;
+}
+.div5,
+.div6 {
+  position: absolute;
+  top: 788px;
+  left: 35px;
+}
+.div6 {
+  top: 787px;
+  left: 102px;
+}
+.div10,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 788px;
+  left: 177px;
+}
+.div10,
+.div8,
+.div9 {
+  left: 241px;
+}
+.div10,
+.div9 {
+  top: 787px;
+  left: 306px;
+}
+.div10 {
+  left: 369px;
+}
+.iphone-14-15-pro-max-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

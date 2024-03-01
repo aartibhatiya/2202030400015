@@ -1,0 +1,236 @@
+.profile1 {
+  position: absolute;
+  top: 36px;
+  left: 29px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-100);
+}
+.iphone-14-15-pro-max-6-child {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  background-color: #554a4a;
+  width: 430px;
+  height: 195px;
+}
+.iphone-14-15-pro-max-6-item {
+  position: absolute;
+  top: 204px;
+  left: 0;
+  background-color: rgba(217, 217, 217, 0.9);
+  width: 430px;
+  height: 100px;
+}
+.iphone-14-15-pro-max-6-inner {
+  position: absolute;
+  top: 156px;
+  left: 33px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 129px;
+  height: 112px;
+}
+.user-male-icon1 {
+  position: absolute;
+  top: 171px;
+  left: 57px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-6-child1 {
+  position: absolute;
+  top: 239px;
+  left: 215px;
+  background-color: #b3364c;
+  width: 189px;
+  height: 52px;
+}
+.log-insign-up {
+  position: absolute;
+  top: 256px;
+  left: 247px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.iphone-14-15-pro-max-6-child2,
+.iphone-14-15-pro-max-6-child3 {
+  position: absolute;
+  top: 349px;
+  left: 0;
+  width: 430px;
+  height: 65px;
+}
+.iphone-14-15-pro-max-6-child3 {
+  top: 416px;
+  left: -2px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-6-child4,
+.iphone-14-15-pro-max-6-child5 {
+  position: absolute;
+  top: 479px;
+  left: 0;
+  width: 430px;
+  height: 65px;
+}
+.iphone-14-15-pro-max-6-child5 {
+  top: 618px;
+}
+.image-13-icon1,
+.image-14-icon1 {
+  position: absolute;
+  top: 822px;
+  left: 29px;
+  width: 49.2px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-14-icon1 {
+  top: 827px;
+  left: 108px;
+  width: 54.2px;
+}
+.setting-icon1,
+.thunder-icon1,
+.user-male-icon2 {
+  position: absolute;
+  top: 832px;
+  left: 197px;
+  width: 50px;
+  height: 40px;
+  object-fit: cover;
+}
+.setting-icon1,
+.user-male-icon2 {
+  top: 822px;
+  left: 285px;
+  height: 50px;
+}
+.user-male-icon2 {
+  top: 827px;
+  left: 365px;
+}
+.home2,
+.hot-trends1 {
+  position: absolute;
+  top: 881px;
+  left: 25px;
+  font-weight: 500;
+}
+.hot-trends1 {
+  top: 884px;
+  left: 95px;
+}
+.about-us,
+.faqs,
+.new1,
+.profile2,
+.settings1 {
+  position: absolute;
+  top: 889px;
+  left: 212px;
+  font-weight: 500;
+}
+.about-us,
+.faqs,
+.profile2,
+.settings1 {
+  left: 280px;
+}
+.about-us,
+.faqs,
+.profile2 {
+  left: 365px;
+}
+.about-us,
+.faqs {
+  top: 735px;
+  left: 38px;
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+}
+.about-us {
+  top: 773px;
+  left: 33px;
+  white-space: pre-wrap;
+}
+.help-center,
+.orders,
+.wishlist1 {
+  position: absolute;
+  top: 363px;
+  left: 43px;
+  font-weight: 600;
+}
+.help-center,
+.wishlist1 {
+  top: 434px;
+}
+.wishlist1 {
+  top: 502px;
+  left: 47px;
+}
+.check-your-order {
+  position: absolute;
+  top: 388px;
+  left: 38px;
+  font-weight: 300;
+}
+.help-regarding-your,
+.your-most-loved {
+  position: absolute;
+  top: 452px;
+  left: 43px;
+  font-weight: 300;
+}
+.your-most-loved {
+  top: 522px;
+  left: 46px;
+}
+.image-26-icon,
+.image-27-icon,
+.image-28-icon {
+  position: absolute;
+  top: 502px;
+  left: 8px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-27-icon,
+.image-28-icon {
+  top: 434px;
+}
+.image-28-icon {
+  top: 366px;
+  height: 30.2px;
+}
+.scan-for-coupon {
+  position: absolute;
+  top: 635px;
+  right: 217px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.image-29-icon {
+  position: absolute;
+  top: 635px;
+  left: 14px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
